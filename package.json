@@ -35,5 +35,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melezhikova/react_components.git"
+  },
+  "author": "ludmila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melezhikova/react_components/issues"
+  },
+  "homepage": "https://github.com/melezhikova/react_components#readme"
 }
